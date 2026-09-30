@@ -11,13 +11,13 @@ integrations, cloud infrastructure, APIs, automation, and scalable
 application architecture.
 
 <p>
-  <a href="https://www.linkedin.com/in/kapilgoyal6/">
+  <a href="https://www.linkedin.com/in/kapilgoyal6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://kapilgoyal.info">
+  <a href="https://kapilgoyal.info" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:kapilgoyal6@gmail.com">
+  <a href="mailto:kapilgoyal6@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
