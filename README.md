@@ -89,7 +89,7 @@ Mobile application ecosystem with Android and iOS development.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapilgoyal6&show_icons=true&theme=dark)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kapilgoyal6&show_icons=true&theme=dark)
 
 ---
 
