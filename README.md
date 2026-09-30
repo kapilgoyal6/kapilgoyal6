@@ -34,7 +34,7 @@ I specialize in turning complex business requirements into reliable, maintainabl
 - 🤖 Building applications with **Python, **LLMs, OpenAI, Anthropic & AI automation**
 - ☁️ Experienced with **AWS, Azure, Docker & CI/CD**
 - 🗄️ Strong database experience with **PostgreSQL & MongoDB**
-- 💳 Experience with **Stripe, Razorpay, PayPal & payment workflows**
+- 🔌 Experienced in integrating **Stripe, PayPal, QuickBooks, SendGrid, Twilio, Meta Graph API and third-party REST APIs**
 - 🔌 Experienced with third-party APIs, webhooks and system integrations
 - 📱 Android & iOS application development experience
 - 🚀 Focused on scalability, performance, clean architecture and developer experience
@@ -83,6 +83,19 @@ I specialize in turning complex business requirements into reliable, maintainabl
   <img src="https://img.shields.io/badge/LLM_Applications-412991?style=flat-square" />
   <img src="https://img.shields.io/badge/AI_Automation-6366F1?style=flat-square" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square" />
+</p>
+
+### Integrations
+
+<p>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" />
+  <img src="https://img.shields.io/badge/QuickBooks-2CA01C?style=flat-square&logo=intuit&logoColor=white" />
+  <img src="https://img.shields.io/badge/SendGrid-1A82E2?style=flat-square&logo=sendgrid&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta_Graph_API-0866FF?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Webhooks-FF6B35?style=flat-square" />
 </p>
 
 ### Cloud & DevOps
