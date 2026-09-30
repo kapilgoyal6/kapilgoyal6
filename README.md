@@ -1,120 +1,202 @@
-# Hi, I'm Kapil Goyal 👋
+<h1 align="center">Hi 👋, I'm Kapil Goyal</h1>
 
-### Senior Full Stack Engineer | Ruby on Rails | React | Next.js | AI/LLM
+<h3 align="center">Senior Full Stack & AI Engineer | Ruby on Rails | React | Python | Next.js | AI/LLM | AWS</h3>
 
-I'm a Senior Full Stack Engineer with 10+ years of experience building
-production-grade web and SaaS applications.
-
-I specialize in backend engineering with Ruby on Rails and building modern
-frontend applications with React and Next.js. I also work with AI/LLM
-integrations, cloud infrastructure, APIs, automation, and scalable
-application architecture.
-
-<p>
-  <a href="https://www.linkedin.com/in/kapilgoyal6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="https://kapilgoyal.info">
+    <img src="https://img.shields.io/badge/Portfolio-kapilgoyal.info-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://kapilgoyal.info" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://www.linkedin.com/in/kapilgoyal6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kapil%20Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:kapilgoyal6@gmail.com" target="_blank">
+  <a href="mailto:kapilgoyal6@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kapilgoyal6&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/kapilgoyal6?label=Followers&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 10+ years of software engineering experience
-- 🔴 Ruby on Rails specialist
-- ⚛️ React & Next.js
-- 🟦 JavaScript / TypeScript
-- 🐘 PostgreSQL
-- ☁️ AWS / Azure
-- 🤖 AI / LLM integrations
-- 🐳 Docker & CI/CD
-- 🔌 REST APIs & third-party integrations
-- 📱 Android & iOS development experience
-- 🌎 Available for remote opportunities
+I'm a **Senior Full Stack & AI Engineer** with **10+ years of experience** building scalable web and mobile applications, SaaS platforms, APIs, integrations, and AI-powered products.
+
+I specialize in turning complex business requirements into reliable, maintainable, production-ready software.
+
+- 🔭 Currently building **AI-powered products and SaaS platforms**
+- 💻 10+ years of **Ruby on Rails / Full Stack Engineering**
+- ⚛️ Strong experience with **React, Next.js, TypeScript & Node.js**
+- 🐍 Strong experience with **Python for backend services, automation and AI applications**
+- 🤖 Building applications with **Python, **LLMs, OpenAI, Anthropic & AI automation**
+- ☁️ Experienced with **AWS, Azure, Docker & CI/CD**
+- 🗄️ Strong database experience with **PostgreSQL & MongoDB**
+- 💳 Experience with **Stripe, Razorpay, PayPal & payment workflows**
+- 🔌 Experienced with third-party APIs, webhooks and system integrations
+- 📱 Android & iOS application development experience
+- 🚀 Focused on scalability, performance, clean architecture and developer experience
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Backend
-Ruby • Ruby on Rails • Python • Node.js • REST APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square" />
+</p>
 
 ### Frontend
-React • React Native • Next.js • TypeScript • JavaScript • HTML • CSS
 
-### Database
-PostgreSQL • MySQL • MongoDB • Redis
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
+
+### AI & LLM
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Applications-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Automation-6366F1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square" />
+</p>
 
 ### Cloud & DevOps
-AWS • Azure • Docker • GitHub Actions • CI/CD
 
-### AI
-OpenAI • Anthropic Claude • LLM APIs • AI-powered workflows
-
-### Integrations
-Stripe • PayPal • QuickBooks • SendGrid • Twilio •
-Meta Graph API • Third-party REST APIs
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### Lease2Ease
-Property and lease management SaaS platform.
+### 🏢 Lease2Ease
 
-**Technologies:** Ruby on Rails, PostgreSQL, JavaScript, AWS
+**AI-powered property & lease management platform**
 
-### Alliv
-Community management platform with automated dues,
-payments, and resident workflows.
+- Property and lease management
+- Tenant and owner workflows
+- Dues and payment management
+- Automated notifications
+- Background processing
+- REST APIs and third-party integrations
+- PostgreSQL-backed SaaS architecture
+
+🔗 https://lease2ease.com/
+
+---
+
+### 💰 Alliv
+
+**Financial management and automated payment platform**
+
+- Create and manage dues
+- Automated payments
+- Payment workflows
+- User and account management
+- Notifications and automation
+- Full-stack SaaS architecture
 
 🔗 https://www.allivapp.com/
 
-### My Carkit
-Mobile application ecosystem with Android and iOS development.
+---
+
+### 🚗 My Carkit
+
+**Mobile automotive platform**
+
+- Android & iOS applications
+- Backend APIs
+- User workflows
+- Automotive-related services
+- Mobile/backend integration
 
 ---
 
-## 💼 Experience
+### 🤖 AI Automation Platform
 
-**Senior Full Stack / Backend Engineer**
+**AI-powered automation and workflow systems**
 
-10+ years of experience working on:
-
-- SaaS platforms
-- FinTech & payment workflows
-- Property management
-- E-commerce
-- Recruitment platforms
-- Mobile applications
-- AI-powered applications
-- API integrations
-- Workflow automation
+- LLM integrations
+- OpenAI / Anthropic APIs
+- AI-assisted workflows
+- Prompt engineering
+- Structured AI responses
+- API and webhook automation
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kapilgoyal6&show_icons=true&theme=dark)
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/kapilgoyal6/
-- 🌐 Portfolio: https://kapilgoyal.info/
-- 🐙 GitHub: https://github.com/kapilgoyal6
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kapilgoyal6&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilgoyal6&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
 ---
 
-### Let's build something great together 🚀
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kapilgoyal6&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapilgoyal6&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Engineering Focus
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                   ENGINEERING                       │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  🏗️  Scalable Backend Architecture                  │
+│  ⚡  High-Performance APIs                           │
+│  🗄️  PostgreSQL & Database Optimization             │
+│  ⚛️  React / Next.js Applications                   │
+│  🐍  Python & AI Application Development            │
+│  🤖  AI / LLM Application Engineering               │
+│  🔌  API & Third-Party Integrations                 │
+│  💳  Payment & Financial Workflows                  │
+│  ☁️  AWS / Azure / Cloud Architecture               │
+│  🚀  CI/CD & Production Deployments                 │
+│  🔐  Secure & Reliable Systems                      │
+│                                                     │
+└─────────────────────────────────────────────────────┘
