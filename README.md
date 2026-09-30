@@ -22,6 +22,10 @@ application architecture.
   </a>
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kapilgoyal6&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🚀 About Me
