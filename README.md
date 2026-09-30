@@ -95,7 +95,7 @@ Mobile application ecosystem with Android and iOS development.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/kapilgoyal/
+- 💼 LinkedIn: https://www.linkedin.com/in/kapilgoyal6/
 - 🌐 Portfolio: https://kapilgoyal.info/
 - 🐙 GitHub: https://github.com/kapilgoyal6
 
